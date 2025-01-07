@@ -1,0 +1,11 @@
+[project]
+
+[tool.poetry]
+name = "leet-code"
+version = "1.0.0"
+description = "Leetcode Python solutions repo"
+authors = ["Jason Wedderburn <jasonwj96@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+numpy = "^2.2.0"
